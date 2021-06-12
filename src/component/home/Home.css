@@ -1,0 +1,23 @@
+.Home {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.all {
+  display: flex;
+  justify-content: center;
+}
+.topics {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  padding: 100px;
+}
+.allNumber {
+  font-size: 500%;
+}
+.number {
+  font-size: 300%;
+}

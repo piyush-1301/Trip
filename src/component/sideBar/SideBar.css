@@ -1,0 +1,8 @@
+.SideBar {
+  width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
