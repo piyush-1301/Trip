@@ -1,7 +1,8 @@
 body {
   background-color: #f2f2f2;
-  background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+  /* background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png"); */
 }
 .App {
   display: flex;
+  height: 100vh;
 }
